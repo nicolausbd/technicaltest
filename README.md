@@ -1,2 +1,7 @@
-# technicaltest
-batch18 kloter3
+Technical Test Dumbways Batch 18 Kloter 3
+
+Penjelasan Jawaban :
+
+Soal 1
+
+
