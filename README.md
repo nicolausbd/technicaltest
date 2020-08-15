@@ -11,6 +11,8 @@ Online Screenshots link : https://snipboard.io/Ere231.jpg
 
 Soal 3 =
 Soal nomor tiga dapat terjawab dengan menampilakan gambar serupa dengan yang diberikan pada soal. 
+
 Gambar ini dibuat dengan bahasa C, hasil akhir program dapat dilihat melalui online editor IDE https://www.onlinegdb.com
+
 Hasil gambar dapat dilihat melalui online screenshots, berikut merupakan link online screenshots : https://snipboard.io/wr3iNx.jpg
 
